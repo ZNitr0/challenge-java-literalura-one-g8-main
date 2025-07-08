@@ -111,7 +111,7 @@ Contribuições são bem-vindas! Sugestões, correções ou novas funcionalidade
 
 Para qualquer dúvida ou feedback:
 
-* LinkedIn: [Levi Do Nascimento](www.linkedin.com/in/levi-nascimento-97b599260)
+* LinkedIn: [Levi Do Nascimento](https://www.linkedin.com/in/levi-nascimento-97b599260/)
 * GitHub: [@ZNitr0](https://github.com/ZNitr0)
 
 
